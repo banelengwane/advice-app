@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Advice - APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is to demo the basics of the react library. It mainly fetches advices from an API then displays each after the user clicks a button.
+The app also informs the user of how many advices have they read.
 
 ## Available Scripts
 
